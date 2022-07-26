@@ -32,7 +32,7 @@ const Header = () => {
   return (
     <Container>
       <Link to="/" style={{ cursor: "pointer" }}>
-        <img src="/images/logo.svg" alt="logo" />
+        <img src="images/logo.svg" alt="logo" />
       </Link>
       <CenterMenu>{carsMenuList}</CenterMenu>
       <RightMenu>
