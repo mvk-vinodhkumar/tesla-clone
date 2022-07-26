@@ -35,7 +35,7 @@ const Wrap = styled.div`
   background-repeat: no-repeat;
   background-position: center;
   // background-image: url("images/model-s.jpg");
-  background-image: ${(props) => `url("/images/${props.bgImage}")`};
+  background-image: ${(props) => `url("images/${props.bgImage}")`};
 
   display: flex;
   flex-direction: column;
