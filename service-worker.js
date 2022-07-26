@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tesla-clone/precache-manifest.5154f5e3f7ca276f51055b4b1475c29e.js"
+  "/tesla-clone/precache-manifest.ebc3ab83903623661a332762c904a036.js"
 );
 
 workbox.clientsClaim();
